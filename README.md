@@ -2,5 +2,4 @@
 PRIMEIRO REPOSITORIO PARA GIT E GIT HUB
 
 ## Links Úteis
-# Sintase Básica Markdown
-https://www.markdownguide.org/basic-syntax/
+# Sintase Básica Markdown (https://www.markdownguide.org/basic-syntax/)
